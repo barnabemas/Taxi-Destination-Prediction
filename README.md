@@ -20,4 +20,4 @@ To run our project, you have to :
   - run all the Network_taxi.ipynb notebook (weights of the neural networks are saved into pth files each two epochs and losses are saved into a txt file)
   - run all the Test_model.ipynb notebook
   
-This projects has been carried out by and Barnabé Mas, Alodie Boissonnet and Jean Bouteiller, under the supervision of Marc Lelarge.
+This projects has been carried out by Barnabé Mas, Alodie Boissonnet and Jean Bouteiller, under the supervision of Marc Lelarge.
